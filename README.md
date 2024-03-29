@@ -1,1 +1,1 @@
-# mini-game-poster
+# Шаблон 
